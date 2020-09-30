@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-int i=15;
+int i;
+cout<<"Enter an integer : ";
+cin>>i;
 if(i>10)
 cout<<"greater";
 else
