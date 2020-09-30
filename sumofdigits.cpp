@@ -1,4 +1,3 @@
-//Sum of Digits of a number
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
