@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -9,8 +9,9 @@ int main()
 	if(cn%2==0)
 		{
 		 if(cn%4==0)
-			cout<<"\nYou are allowed to drive car on sunday."
+			cout<<"\nYou are allowed to drive car on sunday.";
 		 else
-			cout<<"\nYou are not allowed to drive car on sunday."
+			cout<<"\nYou are not allowed to drive car on sunday.";
 	    }
+	return 0;
 }
